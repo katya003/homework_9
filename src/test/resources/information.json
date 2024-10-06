@@ -1,0 +1,19 @@
+{
+  "flowers": [
+    {
+      "number": 1,
+      "name": "rose",
+      "quantity": 5
+    },
+    {
+      "number": 2,
+      "name": "lily",
+      "quantity": 10
+    },
+    {
+      "number": 3,
+      "name": "aster",
+      "quantity": 15
+    }
+  ]
+}
